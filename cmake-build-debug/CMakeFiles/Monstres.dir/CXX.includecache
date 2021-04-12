@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/akmaral/Desktop/TP2/Monstres/jeu.cpp
+jeu.hpp
+/home/akmaral/Desktop/TP2/Monstres/jeu.hpp
+tableau.hpp
+/home/akmaral/Desktop/TP2/Monstres/tableau.hpp
+
+/home/akmaral/Desktop/TP2/Monstres/jeu.hpp
+vector
+-
+monstre.hpp
+/home/akmaral/Desktop/TP2/Monstres/monstre.hpp
+
+/home/akmaral/Desktop/TP2/Monstres/monstre.hpp
+string
+-
+
+/home/akmaral/Desktop/TP2/Monstres/tableau.hpp
+assert.h
+-
+stdarg.h
+-
+vector
+-
+
